@@ -4,7 +4,7 @@ Project Overview
 The Netflix Content Analysis Dashboard is an interactive data visualization project built using Power BI to analyze Netflix's content library. The dashboard provides insights into content distribution, genres, ratings, release trends, and country-wise availability, helping users understand patterns and trends in Netflix's catalog.
 
 Objectives-
-Analyze the distribution of Movies and TV Shows on Netflix.
+Analyze the distribution of Movies and TV Shows on Netflix
 Identify popular genres and content ratings.
 Explore content growth trends over the years.
 Examine country-wise content availability.
