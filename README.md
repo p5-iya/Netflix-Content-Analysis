@@ -33,14 +33,14 @@ Insights Generated-
 Dataset-
 The dataset used for this project contains information about Netflix titles, including:
 
-Title
-Type (Movie/TV Show)
-Genre
-Country
-Rating
-Release Year
-Date Added
-Duration
+- Title
+- Type (Movie/TV Show)
+- Genre
+- Country
+- Rating
+- Release Year
+- Date Added
+- Duration
 
 Outcome
 This dashboard enables users to explore Netflix content interactively and gain valuable insights through data visualization and analytics. It demonstrates practical skills in data cleaning, transformation, modeling, and dashboard design using Power BI.
